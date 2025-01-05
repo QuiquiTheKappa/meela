@@ -11,10 +11,14 @@
             "id": "32df648dc10bfa9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Sentences/Marking Subjects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Marking Subjects"
             }
           }
         ]
@@ -169,19 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32df648dc10bfa9d",
+  "active": "8d369a494d4c56f7",
   "lastOpenFiles": [
+    "Extras/meela.bf",
+    "Extras/Meela.html",
+    "Grammar/Sentences/Imperative.md",
+    "Typeface.md",
+    "Extras/Meela Mac.ttf",
+    "Extras/Meela.ttf",
+    "Extras",
+    "Phrasebook.md",
     "Readme.md",
     "Build/Meela.md",
-    "Typeface.md",
-    "Phrasebook.md",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas",
     "Dictionary.md",
     "Grammar/Base/Verbs/Emotion.md",
     "Phonetics/Sylables.md",
     "Grammar/Sentences/Simple Descriptions.md",
-    "Grammar/Sentences/Imperative.md",
     "Meela_Typography.png",
     "Build/Meela.baked.md",
     "Meela_Typography.png.md",
@@ -194,7 +203,6 @@
     "Grammar/Base/Verbs/Tense.md",
     "Phonetics/Pronounciation.md",
     "Grammar/Sentences/Marking Subjects.md",
-    "Unbenannt",
     "Build",
     "Book/Meela/Grammar.md",
     "Book/Meela/Index.md",
@@ -203,11 +211,8 @@
     "Phonetics",
     "Grammar/Sentences",
     "Grammar/Base",
-    "Grammar/Base/Adjectives",
     "Grammar/Base/Verbs/Negation.md",
     "Grammar/Base/Verbs/Present.md",
-    "Grammar/Base/Verbs",
-    "Welcome.md",
-    "Grammar/Base/Nouns"
+    "Welcome.md"
   ]
 }

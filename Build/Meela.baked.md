@@ -1,6 +1,6 @@
 # Typeface
 
-![](file:///Users/quiqui/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Meela/Meela/Meela_Typography.png)
+![](file://Documents/Meela/Meela_Typography.png)
 
 # Phoenetics
 
