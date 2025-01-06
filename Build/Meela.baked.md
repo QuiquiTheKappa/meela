@@ -1,8 +1,10 @@
 # Typeface
 
-![](file://Documents/Meela/Meela_Typography.png)
+![](file:///Users/quiqui/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Meela/Meela/Meela_Typography.png)
 
 # Phoenetics
+
+### Pronounciation
 
 
 | Character(s) | Pronunciation |
@@ -14,6 +16,9 @@
 | o            | ɔ             |
 | h            | ɦ             |
 | r            | ɾ             |
+
+
+### Sylables
 
 
 | A   | E   | I   | O      | U   |
@@ -37,6 +42,8 @@
 
 ## Nouns
 
+### Plural
+
 
 For plural, the syable /gru/ is attached to the noun. For the word ilu (tree), the plural would be ilugru (trees). 
 Sometimes, a a word can change its meaning depending on context.
@@ -54,11 +61,17 @@ The same goes for pronouns.
 | eegru | us      | as individuals |
 | eeshu | us      | as tribe       |
 
+
+### Specifics
+
 When specific objects are meant, you attach a -va
 
 | Meela   | English   |
 | ------- | --------- |
 | iluu va | this tree |
+
+
+### Nominals
 
 The faunish counting system is decimal.
 
@@ -78,12 +91,17 @@ The faunish counting system is decimal.
 
 ## Verbs
 
+### Present
+
 Verbs end with a -la.
 
 | Meela | English  |
 | ----- | -------- |
 | aaola | to sing  |
 | meela | to speak |
+
+
+### Negation
 
 To negate a word, a -jo is attached before the word. 
 When the verb begins with a vocal, instead of -jo, -jon is attached.
@@ -93,6 +111,9 @@ When the verb begins with a vocal, instead of -jo, -jon is attached.
 | aaola    | jonaaola |
 | baala    | jobaala  |
 
+
+### Tense
+
 They have a past, present and future tense. 
 For future tense, a -la is attached at the end of the word. 
 For past, a -ma is attached at the end of the word.
@@ -100,6 +121,9 @@ For past, a -ma is attached at the end of the word.
 | Present | Past    | Future  |
 | ------- | ------- | ------- |
 | aaola   | aaolama | aaolala |
+
+
+### Emotion
 
 They have an attached emotion: Sad, Happy, Euphoric, Sorrowed, Angry, Confused, Adoring, Melancholic, Fear
 
@@ -119,6 +143,8 @@ They can be mixed.
 
 ## Adjectives
 
+### Base
+
 All verbs end with either a or u but never with -la or -lu.
 
 | Meela   | English   |
@@ -127,6 +153,9 @@ All verbs end with either a or u but never with -la or -lu.
 | leeiluu | beautiful |
 | asheea  | warm      |
 
+
+### Negation
+
 Adjectives are negated similar to verbs.
 
 | Positive | Negative  | English   |
@@ -134,6 +163,9 @@ Adjectives are negated similar to verbs.
 | dreea    | jodreea   | bright    |
 | leeiluu  | joleeiluu | beautiful |
 | ashea    | jonashea  | warm      |
+
+
+### Specifics
 
 To describe the properties of a specifc object, the adjective comes before the noun.
 A -lu is used to connect the adjective to the noun.
@@ -146,6 +178,8 @@ A -lu is used to connect the adjective to the noun.
 
 ## Sentences
 
+### Simple Descriptions
+
 The order for A is B sentences is `[Object][Subject][Verb]`. 
 The verb "to be" can be omitted.
 
@@ -153,6 +187,9 @@ The verb "to be" can be omitted.
 | ------------------- | ----------------------- | ------------------- |
 | hushu dreea eela    | light bright is         | light is bright     |
 | hushu dreea joneela | light bright not is     | light is not bright |
+
+
+### Marking Subjects
 
 Base structure for a sentence is Subject-Object-Verb (SOV). 
 The subject marker (va) comes directly after the subject. 
@@ -172,6 +209,9 @@ If a subject or object is specified using an adjective, it comes before the subj
 | Meela                    | English (Meela Grammar)    | English                    |
 | ------------------------ | -------------------------- | -------------------------- |
 | leiilu iluu va ugru eela | beautiful tree this big is | this beautiful tree is big |
+
+
+### Imperative
 
 Imperatives are rarely used in Meela as it is impolite to order someone to so something.
 An order is given by repeating the verb in its base form. 
@@ -196,7 +236,11 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | be                  | eela                  | verb         |                                           |
 | beautiful           | leeiluu               | adjective    |                                           |
 | below               | gooshu                | adjective    |                                           |
+| berry               | edro                  | noun         |                                           |
 | big                 | ugru                  | adjective    |                                           |
+| black               | veena                 | adjective    |                                           |
+| blue                | diimaana              | adjective    |                                           |
+| breeze              | vavashu               | noun         | lit. happy wind                           |
 | bright              | dreea                 | adjective    |                                           |
 | camp                | groovu                | noun         |                                           |
 | campfire            | beegroovu             | noun         | combines "fire" (*beegu*) and "camp."     |
@@ -204,6 +248,7 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | dance               | droola                | verb         |                                           |
 | dream               | jouushudroo           | noun         |                                           |
 | dull                | eeruuna               | adjective    |                                           |
+| ear                 | shoobiia              | noun         |                                           |
 | eat                 | liola                 | verb         |                                           |
 | fear                | huuhu                 | noun         |                                           |
 | fire                | beegu                 | noun         |                                           |
@@ -216,11 +261,15 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | fur                 | muuruu                | noun         |                                           |
 | go                  | buula                 | verb         |                                           |
 | grape               | eebuleeo              | noun         |                                           |
+| green               | gaiila                | adjective    |                                           |
+| hair                | meedograa             | noun         |                                           |
 | hand                | baalishu              | noun         | lit. "fingers."                           |
 | he/she/they         | oolo                  | pronoun      |                                           |
 | hoof                | buuruu                | noun         |                                           |
 | horn                | veeba                 | noun         |                                           |
 | I                   | ee                    | pronoun      |                                           |
+| yellow              | lovoluugruu           | adjective    |                                           |
+| laugh               | shushuula             | verb         |                                           |
 | leaf                | iluube                | noun         |                                           |
 | leg                 | shubuuruu             | noun         |                                           |
 | light               | hushu                 | noun         |                                           |
@@ -228,6 +277,8 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | lust-fruit (penis)  | guuleeo               | noun         | reflects natural imagery.                 |
 | lust-leaf (vagina)  | guuiluube             | noun         | reflects natural imagery.                 |
 | meat                | liodreege             | noun         | combines "food" (*lio*) and "animal."     |
+| moon                | graanooshuu           | noun         |                                           |
+| mouth               | numeedro              | noun         |                                           |
 | night               | jouushu               | noun         |                                           |
 | not-horn (child)    | joveeba               | noun         | represents youth or lack of growth.       |
 | one                 | sho                   | numeral      |                                           |
@@ -235,18 +286,23 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | plant               | doovee                | noun         |                                           |
 | play                | baala                 | verb         |                                           |
 | please              | huula                 | Verb         |                                           |
+| red                 | numeedro              | adjective    |                                           |
 | round               | eebu                  | adjective    |                                           |
 | sing                | aoola                 | verb         |                                           |
 | skin                | shibii                | noun         |                                           |
 | sleep               | lashula               | verb         |                                           |
 | soon                | ahuu                  | adverb       |                                           |
 | song                | bashui                | noun         |                                           |
+| storm               | vavagru               | noun         | lit. angry wind                           |
+| sun                 | geshuu                | noun         |                                           |
 | this                | va                    | denominator  |                                           |
 | tree                | iluu                  | noun         |                                           |
 | vagina              | guuiluube             | noun         | see *lust-leaf.*                          |
 | wine                | iilueebu              | noun         |                                           |
 | warm                | asheea                | adjective    |                                           |
 | water               | ane                   | noun         |                                           |
+| white               | vaavanu               | adjective    |                                           |
+| wind                | vava                  | noun         |                                           |
 | you                 | aalee                 | pronoun      |                                           |
 | us (as individuals) | eegru                 | pronoun      | reflects individuality within a group.    |
 | us (as tribe)       | eeshu                 | pronoun      | suggests unity and connection.            |
