@@ -1,12 +1,12 @@
 
 | A   | E   | I   | O      | U   |
 | --- | --- | --- | ------ | --- |
-|     |     |     |        | Hu  |
 | Ba  | Be  | Bi  | Bo     | Bu  |
 | Da  | De  | Di  | Do     | Du  |
 | Dra | Dre |     | Dro    | Dru |
 | Ga  | Ge  | Gi  | Go     | Gu  |
 | Gra | Gre |     | gro    | Gru |
+|     |     |     |        | Hu  |
 |     |     |     | Jo/Jon |     |
 | La  | Le  | Li  | Lo     | Lu  |
 | Ma  | Me  |     | Mo     | Mu  |
