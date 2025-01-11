@@ -2,9 +2,9 @@
 
 ![](file:///Users/quiqui/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Meela/Meela/Meela_Typography.png)
 
-# Phoenetics
+# Phonetics
 
-### Pronounciation
+### Pronunciation
 
 
 | Character(s) | Pronunciation |
@@ -18,17 +18,17 @@
 | r            | ɾ             |
 
 
-### Sylables
+### Syllables
 
 
 | A   | E   | I   | O      | U   |
 | --- | --- | --- | ------ | --- |
-|     |     |     |        | Hu  |
 | Ba  | Be  | Bi  | Bo     | Bu  |
 | Da  | De  | Di  | Do     | Du  |
 | Dra | Dre |     | Dro    | Dru |
 | Ga  | Ge  | Gi  | Go     | Gu  |
 | Gra | Gre |     | gro    | Gru |
+|     |     |     |        | Hu  |
 |     |     |     | Jo/Jon |     |
 | La  | Le  | Li  | Lo     | Lu  |
 | Ma  | Me  |     | Mo     | Mu  |
@@ -211,6 +211,16 @@ If a subject or object is specified using an adjective, it comes before the subj
 | leiilu iluu va ugru eela | beautiful tree this big is | this beautiful tree is big |
 
 
+### Posession
+
+To mark possession, the possession marker *vashuu* is used.
+
+| Meela                     | English           | English (Meela Word Order)          |
+| ------------------------- | ----------------- | ----------------------------------- |
+| iluu va ee vashuu eela    | This is my tree   | tree this I (possession marker) is  |
+| drooiidrala va eeshu eela | this is our tribe | tribe this we (posession marker) is |
+
+
 ### Imperative
 
 Imperatives are rarely used in Meela as it is impolite to order someone to so something.
@@ -297,6 +307,7 @@ This is attributes to fauns mostly using the imperative when they are scared to 
 | sun                 | geshuu                | noun         |                                           |
 | this                | va                    | denominator  |                                           |
 | tree                | iluu                  | noun         |                                           |
+| tribe               | drooiidrala           | noun         |                                           |
 | vagina              | guuiluube             | noun         | see *lust-leaf.*                          |
 | wine                | iilueebu              | noun         |                                           |
 | warm                | asheea                | adjective    |                                           |
