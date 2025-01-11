@@ -2,15 +2,15 @@
 
 [[Typeface]]
 
-# Phoenetics
+# Phonetics
 
-### Pronounciation
+### Pronunciation
 
-[[Pronounciation]]
+[[Pronunciation]]
 
-### Sylables
+### Syllables
 
-[[Sylables]]
+[[Syllables]]
 
 # Grammar
 
@@ -72,7 +72,7 @@
 
 ### Posession
 
-[[Posession]]
+[[Possession]]
 
 ### Imperative
 

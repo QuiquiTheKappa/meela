@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Sentences/Posession.md",
+                "file": "Grammar/Sentences/Possession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Posession"
+              "title": "Possession"
             }
           }
         ]
@@ -175,44 +175,43 @@
   },
   "active": "b53ba3a7dda64c4b",
   "lastOpenFiles": [
+    "Dictionary.md",
+    "Phonetics/Pronunciation.md",
+    "Grammar/Base/Verbs/Negation.md",
+    "Grammar/Base/Verbs/Present.md",
+    "Grammar/Base/Verbs/Tense.md",
+    "Grammar/Base/Verbs/Emotion.md",
+    "Grammar/Base/Nouns/Plural.md",
+    "Grammar/Sentences/Possession.md",
+    "Phonetics/Syllables.md",
+    "Readme.md",
+    "Meela_Typography.png",
+    "Phrasebook.md",
     "Build/Meela.md",
-    "Grammar/Sentences/Posession.md",
     "Grammar/Sentences/Marking Subjects.md",
+    "Grammar/Base/Adjectives/Base.md",
     "Grammar/Sentences/Simple Descriptions.md",
     "Grammar/Sentences/Imperative.md",
-    "Phonetics/Sylables.md",
-    "Phonetics/Pronounciation.md",
-    "Dictionary.md",
     "Build/Meela.baked.md",
-    "Meela_Typography.png",
     "Extras/meela.bf",
     "Extras/Meela.html",
     "Typeface.md",
     "Extras/Meela Mac.ttf",
     "Extras/Meela.ttf",
     "Extras",
-    "Phrasebook.md",
-    "Readme.md",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas",
-    "Grammar/Base/Verbs/Emotion.md",
     "Meela_Typography.png.md",
     "Grammar/Base/Adjectives/Specifics.md",
-    "Grammar/Base/Adjectives/Base.md",
     "Grammar/Base/Nouns/Specifics.md",
     "Grammar/Base/Adjectives/Negation.md",
-    "Grammar/Base/Nouns/Plural.md",
     "Grammar/Base/Nouns/Nominals.md",
-    "Grammar/Base/Verbs/Tense.md",
     "Build",
     "Book/Meela/Grammar.md",
     "Book/Meela/Index.md",
     "Book/Meela",
     "Book",
     "Phonetics",
-    "Grammar/Sentences",
-    "Grammar/Base/Verbs/Negation.md",
-    "Grammar/Base/Verbs/Present.md",
-    "Welcome.md"
+    "Grammar/Sentences"
   ]
 }

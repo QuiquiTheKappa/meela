@@ -68,6 +68,7 @@
 | sun                 | geshuu                | noun         |                                           |
 | this                | va                    | denominator  |                                           |
 | tree                | iluu                  | noun         |                                           |
+| tribe               | drooiidrala           | noun         |                                           |
 | vagina              | guuiluube             | noun         | see *lust-leaf.*                          |
 | wine                | iilueebu              | noun         |                                           |
 | warm                | asheea                | adjective    |                                           |
