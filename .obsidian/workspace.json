@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b53ba3a7dda64c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Build/Meela.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meela"
-            }
-          },
-          {
             "id": "34c10c71f0f91852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build/Meela.baked.md",
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meela.baked"
+              "title": "Dictionary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,6 +177,7 @@
   "lastOpenFiles": [
     "Build/Meela.md",
     "Dictionary.md",
+    "Build/Meela.baked.md",
     "Grammar/Sentences/Possession.md",
     "Phonetics/Pronunciation.md",
     "Grammar/Base/Verbs/Negation.md",
@@ -207,7 +193,6 @@
     "Grammar/Base/Adjectives/Base.md",
     "Grammar/Sentences/Simple Descriptions.md",
     "Grammar/Sentences/Imperative.md",
-    "Build/Meela.baked.md",
     "Extras/meela.bf",
     "Extras/Meela.html",
     "Typeface.md",
