@@ -1,9 +1,9 @@
 
 | **English word**    | **Meela translation** | **Category** | **Commentary**                            |
 | ------------------- | --------------------- | ------------ | ----------------------------------------- |
-| love                |                       |              |                                           |
+| love                | nuulabi               | noun         | emotion + marker for love                 |
 | adult               | veebamuuruu           | noun         | lit. "horn-fur."                          |
-| and                 | eshe                  | conjunction  |                                           |
+| and                 | esha                  | conjunction  |                                           |
 | animal              | dreege                | noun         |                                           |
 | be                  | eela                  | verb         |                                           |
 | beautiful           | leeiluu               | adjective    |                                           |
@@ -12,23 +12,23 @@
 | big                 | ugru                  | adjective    |                                           |
 | black               | veena                 | adjective    |                                           |
 | blue                | diimaana              | adjective    |                                           |
-| bowl                |                       |              |                                           |
+| bowl                | noreebovee            | noun         |                                           |
 | breeze              | vavashu               | noun         | lit. happy wind                           |
 | bright              | dreea                 | adjective    |                                           |
 | camp                | groovu                | noun         |                                           |
 | campfire            | beegroovu             | noun         | combines "fire" (*beegu*) and "camp."     |
 | child               | joveeba               | noun         | lit. "not-horn." Suggests immaturity.     |
-| child               |                       |              |                                           |
-| cloud               |                       | noun         |                                           |
+| cloud               | luubeva-ane           | noun         | lit. "sky-water"                          |
 | dance               | droola                | verb         |                                           |
 | dream               | jouushudroo           | noun         |                                           |
-| drink               |                       | verb         |                                           |
+| drink               | iilueebula            | verb         | verb form of "wine"                       |
 | dull                | eeruuna               | adjective    |                                           |
 | ear                 | shoobiia              | noun         |                                           |
 | east                |                       |              |                                           |
 | eat                 | liola                 | verb         |                                           |
-| enemy               |                       |              |                                           |
-| evening             |                       |              |                                           |
+| emotion             | nuula                 | noun         |                                           |
+| enemy               | joshaaluhu            | noun         | non-friend with fear ending               |
+| evening             | shoi-geshuu           | noun         | lit. "old-sun"                            |
 | father              |                       |              |                                           |
 | fear                | huuhu                 | noun         |                                           |
 | finger              | baali                 | noun         |                                           |
@@ -37,7 +37,7 @@
 | food                | lio                   | noun         |                                           |
 | forest              | iluushu               | noun         | lit. "many trees together."               |
 | forest fire         | iluushuubeegu         | noun         | combines "forest" (*iluushu*) and "fire." |
-| friend              |                       |              |                                           |
+| friend              | shaalu                | noun         |                                           |
 | fruit               | leeo                  | noun         |                                           |
 | fur                 | muuruu                | noun         |                                           |
 | go                  | buula                 | verb         |                                           |
@@ -51,9 +51,10 @@
 | horn                | veeba                 | noun         |                                           |
 | I                   | ee                    | pronoun      |                                           |
 | laugh               | shushuula             | verb         |                                           |
-| leader              |                       |              |                                           |
+| lead                | noola                 | verb         |                                           |
+| leader              | noolaru               | noun         |                                           |
 | leaf                | iluube                | noun         |                                           |
-| learn               |                       | verb         |                                           |
+| learn               | namala                | verb         |                                           |
 | left                |                       |              |                                           |
 | leg                 | shubuuruu             | noun         |                                           |
 | light               | hushu                 | noun         |                                           |
@@ -62,12 +63,14 @@
 | lust-leaf (vagina)  | guuiluube             | noun         | reflects natural imagery.                 |
 | meat                | liodreege             | noun         | combines "food" (*lio*) and "animal."     |
 | moon                | graanooshuu           | noun         |                                           |
-| morning             |                       |              |                                           |
+| morning             | joveebaa-geshuu       | noun         | lit. "child-sun"                          |
 | mother              |                       |              |                                           |
 | mouth               | numeedro              | noun         |                                           |
 | night               | jouushu               | noun         |                                           |
+| noon                | veebamuuruu-geshuu    | noun         | lit. "adult-sun"                          |
 | north               |                       |              |                                           |
 | not-horn (child)    | joveeba               | noun         | represents youth or lack of growth.       |
+| old                 | shoi                  | noun         |                                           |
 | one                 | sho                   | numeral      |                                           |
 | partner             |                       |              |                                           |
 | path                |                       |              |                                           |
@@ -76,13 +79,15 @@
 | play                | baala                 | verb         |                                           |
 | please              | huula                 | verb         |                                           |
 | rain                |                       | noun         |                                           |
-| read                |                       | verb         |                                           |
+| read                | aavela                | verb         |                                           |
 | red                 | numeedro              | adjective    |                                           |
 | right               |                       |              |                                           |
 | round               | eebu                  | adjective    |                                           |
 | sing                | aoola                 | verb         |                                           |
 | skin                | shibii                | noun         |                                           |
+| sky                 | luubeva               | noun         |                                           |
 | sleep               | lashula               | verb         |                                           |
+| small               |                       |              |                                           |
 | snow                |                       | noun         |                                           |
 | song                | bashui                | noun         |                                           |
 | soon                | ahuu                  | adverb       |                                           |
@@ -102,7 +107,7 @@
 | us (as individuals) | eegru                 | pronoun      | reflects individuality within a group.    |
 | us (as tribe)       | eeshu                 | pronoun      | suggests unity and connection.            |
 | vagina              | guuiluube             | noun         | see *lust-leaf.*                          |
-| warm                | asheea                | adjective    |                                           |
+| warm                | ashooa                | adjective    |                                           |
 | water               | ane                   | noun         |                                           |
 | west                |                       |              |                                           |
 | white               | vaavanu               | adjective    |                                           |

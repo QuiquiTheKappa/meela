@@ -1,5 +1,5 @@
 When specific objects are meant, you attach a -va
 
-| Meela   | English   |
-| ------- | --------- |
-| iluu va | this tree |
+| Native                                                           | Meela   | English   |
+| ---------------------------------------------------------------- | ------- | --------- |
+| <span style="font-family: Meela; font-size: 32px">iluu va</span> | iluu va | this tree |

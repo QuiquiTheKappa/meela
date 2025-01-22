@@ -9,8 +9,8 @@ iluu -> iluushu (many trees together | forest)
 The sylable -shu binds objects together in a more intimate, binding way.
 The same goes for pronouns.
 
-| Meela | English | nuance         |
-| ----- | ------- | -------------- |
-| ee    | I       |                |
-| eegru | us      | as individuals |
-| eeshu | us      | as tribe       |
+| Native                                                         | Meela | English | nuance         |
+| -------------------------------------------------------------- | ----- | ------- | -------------- |
+| <span style="font-family: Meela; font-size: 32px">ee</span>    | ee    | I       |                |
+| <span style="font-family: Meela; font-size: 32px">eegru</span> | eegru | us      | as individuals |
+| <span style="font-family: Meela; font-size: 32px">eeshu</span> | eeshu | us      | as tribe       |
